@@ -1,4 +1,5 @@
 **/node_modules
+**/go-workspace
 **/.npm
 *.un~
 *.json~
