@@ -10,7 +10,7 @@ compose-up:
 
 .PHONY: compose-up-build
 compose-up-build:
-	docker compose up --build
+	docker compose up -d --build
 
 .PHONY: compose-down
 compose-down:
